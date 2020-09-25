@@ -1,10 +1,12 @@
 - Javascript
   - ES6
   - Framework Javascript
-    - Angular
-    - React
+    -Vlue
+    -React
 - HTML
 - CSS
+  - CSS Louying
+- Struktur Data Dasar
 - PHP
   - Laravel
 - XAMPP
