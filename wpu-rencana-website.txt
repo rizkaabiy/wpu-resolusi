@@ -3,5 +3,6 @@
   - Framework Javascript
 - HTML
 - CSS
+- Struktur Data Dasar
 - PHP
 - XAMPP
