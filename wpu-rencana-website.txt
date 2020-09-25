@@ -1,0 +1,5 @@
+- Javascript
+- HTML
+- CSS
+- PHP
+- XAMPP
