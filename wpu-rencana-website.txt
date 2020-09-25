@@ -3,6 +3,8 @@
   - Framework Javascript
 - HTML
 - CSS
+  - CSS Louying
 - Struktur Data Dasar
 - PHP
+  - Laravel
 - XAMPP
